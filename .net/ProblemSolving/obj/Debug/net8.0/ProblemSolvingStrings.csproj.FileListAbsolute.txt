@@ -1,0 +1,14 @@
+D:\techTask\.net\task1\ProblemSolving\bin\Debug\net8.0\ProblemSolvingStrings.exe
+D:\techTask\.net\task1\ProblemSolving\bin\Debug\net8.0\ProblemSolvingStrings.deps.json
+D:\techTask\.net\task1\ProblemSolving\bin\Debug\net8.0\ProblemSolvingStrings.runtimeconfig.json
+D:\techTask\.net\task1\ProblemSolving\bin\Debug\net8.0\ProblemSolvingStrings.dll
+D:\techTask\.net\task1\ProblemSolving\bin\Debug\net8.0\ProblemSolvingStrings.pdb
+D:\techTask\.net\task1\ProblemSolving\obj\Debug\net8.0\ProblemSolvingStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\techTask\.net\task1\ProblemSolving\obj\Debug\net8.0\ProblemSolvingStrings.AssemblyInfoInputs.cache
+D:\techTask\.net\task1\ProblemSolving\obj\Debug\net8.0\ProblemSolvingStrings.AssemblyInfo.cs
+D:\techTask\.net\task1\ProblemSolving\obj\Debug\net8.0\ProblemSolvingStrings.csproj.CoreCompileInputs.cache
+D:\techTask\.net\task1\ProblemSolving\obj\Debug\net8.0\ProblemSolvingStrings.dll
+D:\techTask\.net\task1\ProblemSolving\obj\Debug\net8.0\refint\ProblemSolvingStrings.dll
+D:\techTask\.net\task1\ProblemSolving\obj\Debug\net8.0\ProblemSolvingStrings.pdb
+D:\techTask\.net\task1\ProblemSolving\obj\Debug\net8.0\ProblemSolvingStrings.genruntimeconfig.cache
+D:\techTask\.net\task1\ProblemSolving\obj\Debug\net8.0\ref\ProblemSolvingStrings.dll

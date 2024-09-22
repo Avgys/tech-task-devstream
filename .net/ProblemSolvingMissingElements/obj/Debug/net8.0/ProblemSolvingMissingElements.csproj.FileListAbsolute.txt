@@ -1,0 +1,14 @@
+D:\techTask\.net\task1\ProblemSolvingMissingElements\bin\Debug\net8.0\ProblemSolvingMissingElements.exe
+D:\techTask\.net\task1\ProblemSolvingMissingElements\bin\Debug\net8.0\ProblemSolvingMissingElements.deps.json
+D:\techTask\.net\task1\ProblemSolvingMissingElements\bin\Debug\net8.0\ProblemSolvingMissingElements.runtimeconfig.json
+D:\techTask\.net\task1\ProblemSolvingMissingElements\bin\Debug\net8.0\ProblemSolvingMissingElements.dll
+D:\techTask\.net\task1\ProblemSolvingMissingElements\bin\Debug\net8.0\ProblemSolvingMissingElements.pdb
+D:\techTask\.net\task1\ProblemSolvingMissingElements\obj\Debug\net8.0\ProblemSolvingMissingElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\techTask\.net\task1\ProblemSolvingMissingElements\obj\Debug\net8.0\ProblemSolvingMissingElements.AssemblyInfoInputs.cache
+D:\techTask\.net\task1\ProblemSolvingMissingElements\obj\Debug\net8.0\ProblemSolvingMissingElements.AssemblyInfo.cs
+D:\techTask\.net\task1\ProblemSolvingMissingElements\obj\Debug\net8.0\ProblemSolvingMissingElements.csproj.CoreCompileInputs.cache
+D:\techTask\.net\task1\ProblemSolvingMissingElements\obj\Debug\net8.0\ProblemSolvingMissingElements.dll
+D:\techTask\.net\task1\ProblemSolvingMissingElements\obj\Debug\net8.0\refint\ProblemSolvingMissingElements.dll
+D:\techTask\.net\task1\ProblemSolvingMissingElements\obj\Debug\net8.0\ProblemSolvingMissingElements.pdb
+D:\techTask\.net\task1\ProblemSolvingMissingElements\obj\Debug\net8.0\ProblemSolvingMissingElements.genruntimeconfig.cache
+D:\techTask\.net\task1\ProblemSolvingMissingElements\obj\Debug\net8.0\ref\ProblemSolvingMissingElements.dll
